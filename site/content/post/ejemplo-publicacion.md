@@ -13,23 +13,12 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 ## The little secrets of Chemex brewing
 
-		<img src="/site/static/img/home-jumbotron.jpg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
+		<img src="/site/static/img/home-jumbotron.jpg" width="150" height="100" />
 	<audio src="/site/static/media/test-audio.mp3" controls />
 
-image: /img/blog-chemex.jpg
 
 <audio src="/site/static/media/test-audio.mp3" controls>Audio prueba</audio>
 
-- image: /img/illustrations-tutorials.svg
-
-blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
 
 The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
