@@ -13,11 +13,11 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 ## The little secrets of Chemex brewing
 
-<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/site/static/img/home-jumbotron.jpg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
-	</a>
 
-<audio src="/media/test-audio.mp3" controls>Audio prueba</audio>
+		<img src="/site/static/img/home-jumbotron.jpg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
+
+
+<audio src="/site/static/media/test-audio.mp3" controls>Audio prueba</audio>
 
 The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
 
