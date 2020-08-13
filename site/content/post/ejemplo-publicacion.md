@@ -13,7 +13,7 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 
 ## The little secrets of Chemex brewing
 <a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/site/static/img/home-jumbotron.jpg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
+		<img src="/img/home-jumbotron.jpg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
 	</a>
 
 <audio src="/site/static/media/test-audio.mp3" controls>Audio prueba</audio>
